@@ -27,5 +27,5 @@ This project likely interacts with blockchain networks using a Web3 library like
 
 ## Demo:
 
-[Demo Video](web-3-classes.vercel.app)
+[Demo Video]((https://web-3-classes.vercel.app/ ))
 
